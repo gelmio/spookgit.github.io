@@ -1,0 +1,17 @@
+
+.operators {
+
+  border-top: 1px solid #2E9CBF;
+  border-bottom: 1px solid #2E9CBF;
+  border-left: 4px solid #2E9CBF;
+  border-right: 4px solid #2E9CBF;
+  background-color: #E6F2EE;
+}
+
+h1 {
+  font-family: Verdana, sans-serif;
+}
+
+p {
+  font-family:sans-serif;
+}
