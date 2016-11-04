@@ -6,6 +6,7 @@
   border-left: 4px solid #2E9CBF;
   border-right: 4px solid #2E9CBF;
   background-color: #E6F2EE;
+  float : left;
 }
 
 h1 {
@@ -19,8 +20,11 @@ p {
 }
 
 .panel {
-  height: 300px;
-  width: 300px;
-  float: right;
-
+   width: 30%;
+   height: 150px;
+  float: left;
+}
+img{
+  max-width: 300px;
+  height: 100%;
 }
