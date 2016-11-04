@@ -10,8 +10,17 @@
 
 h1 {
   font-family: Verdana, sans-serif;
+  margin: auto;
+  font-size: 36px;
 }
 
 p {
   font-family:sans-serif;
+}
+
+.panel {
+  height: 300px;
+  width: 300px;
+  float: right;
+
 }
