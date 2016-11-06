@@ -1,26 +1,25 @@
-
-.operators {
-
-  border-top: 1px solid #2E9CBF;
-  border-bottom: 1px solid #2E9CBF;
-  border-left: 4px solid #2E9CBF;
-  border-right: 4px solid #2E9CBF;
-  background-color: #E6F2EE;
+h1, h2, h3, p {
+  text-align: center;
 }
 
 h1 {
-  font-family: Verdana, sans-serif;
-  margin: auto;
-  font-size: 36px;
+  margin: 50px 0 0px;
 }
-
+h2 {
+  margin: 0 0 50px;
+}
+h3 {
+  margin: 5px 0 0 0;
+}
 p {
-  font-family:sans-serif;
+  margin: 0;
 }
 
-.panel {
-  height: 300px;
-  width: 300px;
-  float: right;
+.img-responsive {
+  max-width: 100%;
+  height: 175px;
+}
 
+.portfolio-item {
+  margin-bottom: 30px;
 }
